@@ -1,0 +1,23 @@
+# To-Do List Application (Console-Based)
+
+##  Overview
+This is a simple command-line To-Do List app built in Python.  
+It supports adding, removing, and viewing tasks, and stores them in a text file (`tasks.txt`) for persistence.
+
+##  Features
+- Add new tasks
+- View all tasks
+- Remove tasks by number
+- Tasks remain saved even after closing the app
+- Uses Python file handling (open, read, write)
+- Uses lists for storage
+
+##  Files Included
+- `todo.py` → Main application script
+- `tasks.txt` → Stores your tasks (auto-created)
+
+##  How to Run
+1. Install Python
+2. Open terminal in the project folder
+3. Run the command:
+
